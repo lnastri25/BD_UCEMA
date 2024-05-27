@@ -1,11 +1,6 @@
 *.csv
 *.zip
 *.xlsx
-*.pyc
-*.ipynb_checkpoints
-*.idea
 *.DS_Store
-*.pyc
-.pytest_cache
 *.vscode
 *.db
